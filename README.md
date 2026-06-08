@@ -38,30 +38,6 @@ The dataset contains transactional sales information including:
 * Seaborn
 * OpenPyXL
 
-## Project Structure
-
-```text
-data-science-week1-assignment/
-│
-├── data/
-│   ├── raw/
-│   │   └── Flipkart Sales Dataset(raw data).xlsx
-│   └── cleaned/
-│       └── flipkart_cleaned.csv
-│
-├── notebooks/
-│   └── week1_analysis.ipynb
-│
-├── outputs/
-│   ├── charts/
-│   └── dashboard/
-│
-├── reports/
-│   └── final_report.pdf
-│
-├── README.md
-└── requirements.txt
-```
 
 ## Task 1: Data Cleaning
 
