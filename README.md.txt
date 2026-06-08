@@ -38,30 +38,7 @@ The dataset contains transactional sales information including:
 * Seaborn
 * OpenPyXL
 
-## Project Structure
 
-```text
-data-science-week1-assignment/
-│
-├── data/
-│   ├── raw/
-│   │   └── Flipkart Sales Dataset(raw data).xlsx
-│   └── cleaned/
-│       └── flipkart_cleaned.csv
-│
-├── notebooks/
-│   └── week1_analysis.ipynb
-│
-├── outputs/
-│   ├── charts/
-│   └── dashboard/
-│
-├── reports/
-│   └── final_report.pdf
-│
-├── README.md
-└── requirements.txt
-```
 
 ## Task 1: Data Cleaning
 
@@ -129,31 +106,6 @@ Created:
 * Focus marketing efforts on the 26–35 age segment.
 * Maintain inventory levels for top-selling products.
 
-## How to Run the Project
-
-1. Clone the repository.
-
-```bash
-git clone <repository-url>
-```
-
-2. Install required libraries.
-
-```bash
-pip install -r requirements.txt
-```
-
-3. Open Jupyter Notebook.
-
-```bash
-jupyter notebook
-```
-
-4. Run:
-
-```text
-notebooks/week1_analysis.ipynb
-```
 
 ## Author
 
