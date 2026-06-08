@@ -105,31 +105,6 @@ Created:
 * Focus marketing efforts on the 26–35 age segment.
 * Maintain inventory levels for top-selling products.
 
-## How to Run the Project
-
-1. Clone the repository.
-
-```bash
-git clone <repository-url>
-```
-
-2. Install required libraries.
-
-```bash
-pip install -r requirements.txt
-```
-
-3. Open Jupyter Notebook.
-
-```bash
-jupyter notebook
-```
-
-4. Run:
-
-```text
-notebooks/week1_analysis.ipynb
-```
 
 ## Author
 
